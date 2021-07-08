@@ -1,20 +1,11 @@
-# My Profile (mayank-profile)
+# Kopo Profile
 
-My Profile
+* Vue.js Practice repo for educational purpose. 
+* And it will be used by korea polytechnics college students in their front-end class.
+* This repo is forked from https://github.com/mayank091193/mayank-profile.
 
-## Site: [https://mayank-patel.netlify.app/#/](https://mayank-patel.netlify.app/#/)
 
-# Support
-
-If this helped you, you can contribute to this project by supporting me:
-
-### [💜 Support my open-source work on GitHub](https://github.com/sponsors/mayank091193)
-
-Please check out my sponsor page.
-
-(GitHub currently **doubles your support**! So if you support me with $5/mo, I will get $10 instead! 😉)
-
-Thank you very much!!
+## Site: [https://tbd.netlify.app/#/](https://tbd.netlify.app/#/)
 
 ## Resources used
 * [Quasar Framework](https://quasar.dev/)
@@ -24,31 +15,26 @@ Thank you very much!!
 ## Installation
 
 * **Clone the repository**
-
 ```
-git clone https://github.com/mayank091193/mayank-profile.git
+git clone https://github.com/wonyongHwang/kopoProfile.git
 ```
 
 ## Install the dependencies
 ```bash
-cd mayank-profile
+cd kopoProfile
 npm install
 ```
 
 
-### Start the app in development mode (hot-code reloading, error reporting, etc.)
+### Start the app in development mode 
 ```bash
 quasar dev
 ```
-
 
 ### Build the app for production
 ```bash
 quasar build
 ```
-
-Do reach out to me at "mayank091193@gmail.com" for queries.
-
 ## Screens UI
 **Home**
 <p float="left">
@@ -61,7 +47,7 @@ Do reach out to me at "mayank091193@gmail.com" for queries.
 **Projects**
 <p float="left">
 	<kbd>
-<img src="assets/projects.png" border="1" alt="Projects"
+<img src="assets/works.png" border="1" alt="Works"
 	title="Portfolio"  />	
 	</kbd>
 </p>
@@ -69,7 +55,7 @@ Do reach out to me at "mayank091193@gmail.com" for queries.
 **Sketches**
 <p float="left">
 	<kbd>
-<img src="assets/sketches.png" border="1" alt="Sketches"
+<img src="assets/photo.png" border="1" alt="Photos"
 	title="Pricing"  />
 	</kbd>
 </p>
@@ -82,3 +68,6 @@ See [Configuring quasar.conf.js](https://quasar.dev/quasar-cli/quasar-conf-js).
 ## License
 
 [MIT](http://opensource.org/licenses/MIT)
+
+## Original Source (forked from)
+https://github.com/mayank091193/mayank-profile
