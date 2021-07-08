@@ -5,7 +5,7 @@
 * This repo is forked from https://github.com/mayank091193/mayank-profile.
 
 
-## Site: [https://tbd.netlify.app/#/](https://tbd.netlify.app/#/)
+## Site: [https://kopo.netlify.app/#/](https://kopo.netlify.app/#/)
 
 ## Resources used
 * [Quasar Framework](https://quasar.dev/)
