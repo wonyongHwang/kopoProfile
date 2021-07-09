@@ -268,7 +268,7 @@
                   <div style="text-decoration: none;color: #eb4f71;">Application Development Using BlockChain</div>
                 </div>
                 <div class="text-caption text-grey-9">
-                  Dec 10, 2019  publication descriptionKorea Polytechnics college<br>
+                  Dec 10, 2019 Korea Polytechnics college<br>
                   <br>
                   - learn the characteristics of blockchain architecture through bitcoin<br>
                   - ethereum and its application development<br>
@@ -279,7 +279,7 @@
                   <div style="text-decoration: none;color: #eb4f71;">Development of Industrial Electronic Hardware</div>
                 </div>
                 <div class="text-caption text-grey-9">
-                  Dec 31, 2018  publication descriptionKorea Research Institute for Vocational Education & Training (KRIVET)<br>
+                  Dec 31, 2018 Korea Research Institute for Vocational Education & Training (KRIVET)<br>
                   ISBN : 979-11-339-6977-7 (95560), 979-11-339-6976-0 (95560), 979-11-339-6979-1 (95560), 979-11-339-6975-3 (95560),<br>
                    979-11-339-6978-4 (95560) <br><br>
                 </div>
