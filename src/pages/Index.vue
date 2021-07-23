@@ -31,7 +31,7 @@
         <div class="">
           <div class="text-h6 text-grey-5">WELCOME TO MY PAGE</div>
           <div class="text-h2 text-white q-py-sm q-my-md"
-               style="border-top:3px solid #1595de;border-bottom: 3px solid #2faa64;">I'M A FULL-STACK DEVELOPER
+               style="border-top:3px solid #1595de;border-bottom: 3px solid #2faa64;">I'M a FULL-STACK DEVELOPER.
           </div>
           <div class="text-h6" style="color: #f4b825;">
             S/W DEVELOPER | FULL STACK ENGINEER | PROFESSOR
