@@ -37,7 +37,7 @@
             S/W DEVELOPER | FULL STACK ENGINEER | PROFESSOR
           </div>
           <div style="color: #1495de !important;" class="text-h4 q-mt-md text-grey-2 my-font">
-            wayne Hwang
+            Wayne Hwang
           </div>
         </div>
       </div>
