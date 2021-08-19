@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/9bd88d59-5c7b-4ec7-a59c-21c2bf52adb4/deploy-status)](https://app.netlify.com/sites/kopo/deploys)
+
 # Kopo Profile
 
 * Vue.js Practice repo for educational purpose. 
