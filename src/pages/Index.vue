@@ -7,19 +7,19 @@
         <q-toolbar class="text-h4">
           <q-space></q-space>
           <q-tabs v-model="selected_tab" shrink>
-            <q-tab :style="[selected_tab == 't_0' ? {backgroundColor: 'green'} : {}]" class="q-mr-sm q-py-xs custom_tab"
+            <q-tab name="about_me" :style="[selected_tab == 'about_me' ? {backgroundColor: 'green'} : {}]" class="q-mr-sm q-py-xs custom_tab"
                    @click="scrollToElement('id_about_me')" style="width:120px;min-height:auto !important;color: white"
                    label="About Me"/>
-            <q-tab :style="[selected_tab == 't_1' ? {backgroundColor: 'green'} : {}]" class="q-mr-sm q-py-xs custom_tab"
+            <q-tab name="works" :style="[selected_tab == 'works' ? {backgroundColor: 'green'} : {}]" class="q-mr-sm q-py-xs custom_tab"
                    @click="scrollToElement('id_projects')" style="width:120px;min-height:auto !important;color: white"
                    label="Works"/>
-            <q-tab :style="[selected_tab == 't_2' ? {backgroundColor: 'green'} : {}]" class="q-mr-sm q-py-xs custom_tab"
+            <q-tab name="pubs" :style="[selected_tab == 'pubs' ? {backgroundColor: 'green'} : {}]" class="q-mr-sm q-py-xs custom_tab"
                    @click="scrollToElement('id_publications')" style="width:120px;min-height:auto !important;color: white"
                    label="Publications"/>
-            <q-tab :style="[selected_tab == 't_3' ? {backgroundColor: 'green'} : {}]" class="q-mr-sm q-py-xs custom_tab"
+            <q-tab name="photo" :style="[selected_tab == 'photo' ? {backgroundColor: 'green'} : {}]" class="q-mr-sm q-py-xs custom_tab"
                    @click="scrollToElement('id_photo')" style="width:120px;min-height:auto !important;color: white"
                    label="Photo"/>
-            <q-tab :style="[selected_tab == 't_4' ? {backgroundColor: 'green'} : {}]" class="q-mr-sm q-py-xs custom_tab"
+            <q-tab name="contact" :style="[selected_tab == 'contact' ? {backgroundColor: 'green'} : {}]" class="q-mr-sm q-py-xs custom_tab"
                    @click="scrollToElement('id_contact_me')"
                    style="width:120px;min-height:auto !important;color: white" label="Contact Me"/>
           </q-tabs>
@@ -410,7 +410,7 @@
                 name: "",
                 email: "",
                 message: "",
-                selected_tab: 't_0',
+                selected_tab: 'about_me',
             }
         },
         methods: {
