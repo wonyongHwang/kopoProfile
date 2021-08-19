@@ -334,7 +334,7 @@
           </div>
         </div>
       </div>
-      <canvas id="canvas2" style="height: 100%;width:100%;"></canvas>
+      <!-- <canvas id="canvas2" style="height: 100%;width:100%;"></canvas> -->
     </section>
     <div id="contact_us">
       <div style="background-color: rgba(0, 0, 0, 0.68) !important;">
@@ -423,16 +423,16 @@
             }
         },
         mounted: function () {
-            let canvas2Settings = {
-                "target": "canvas2",
-                "max": "120",
-                "animate": true,
-                "props": ["circle", "square", "triangle", "line"],
-                "colors": [[165, 104, 246], [230, 61, 135], [0, 199, 228], [253, 214, 126]],
-                "clock": "20"
-            };
-            let canvas2 = new ConfettiGenerator(canvas2Settings);
-            canvas2.render();
+            // let canvas2Settings = {
+            //     "target": "canvas2",
+            //     "max": "120",
+            //     "animate": true,
+            //     "props": ["circle", "square", "triangle", "line"],
+            //     "colors": [[165, 104, 246], [230, 61, 135], [0, 199, 228], [253, 214, 126]],
+            //     "clock": "20"
+            // };
+            // let canvas2 = new ConfettiGenerator(canvas2Settings);
+            // canvas2.render();
         }
     }
 </script>
