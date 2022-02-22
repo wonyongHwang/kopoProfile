@@ -3,7 +3,7 @@
     <div v-bind:class="{'main': $q.platform.is.desktop, 'mobile_main': $q.platform.is.ipad || $q.platform.is.mobile}"
          class="full-height" style="background-color:rgba(0, 0, 0, 0.7);">
 
-      <q-header class="q-py-sm" style="background-color:rgba(0, 0, 0, 0.7);">
+      <q-header class="q-py-sm" style="background-color:rgba(0, 0, 0, 0.0);">
         <q-toolbar class="text-h4">
           <q-space></q-space>
           <q-tabs v-model="selected_tab" shrink>
@@ -19,6 +19,9 @@
             <q-tab name="photo" :style="[selected_tab == 'photo' ? {backgroundColor: 'green'} : {}]" class="q-mr-sm q-py-xs custom_tab"
                    @click="scrollToElement('id_photo')" style="width:120px;min-height:auto !important;color: white"
                    label="Photo"/>
+            <q-tab name="lecture" :style="[selected_tab == 'lecture' ? {backgroundColor: 'green'} : {}]" class="q-mr-sm q-py-xs custom_tab"
+                   @click="scrollToElement('id_lecture')" style="width:120px;min-height:auto !important;color: white"
+                   label="Lecture"/>
             <q-tab name="contact" :style="[selected_tab == 'contact' ? {backgroundColor: 'green'} : {}]" class="q-mr-sm q-py-xs custom_tab"
                    @click="scrollToElement('id_contact_me')"
                    style="width:120px;min-height:auto !important;color: white" label="Contact Me"/>
@@ -336,6 +339,24 @@
       </div>
       <!-- <canvas id="canvas2" style="height: 100%;width:100%;"></canvas> -->
     </section>
+    <section id="id_lecture">
+      <div style="background-color:#206b73;z-index:0;" class="content">
+        <div class="row row q-px-xl">
+          <div class="text-h4 text-center text-white q-py-sm q-my-md full-width"
+               style="border-top:3px solid #bdbdbd;border-bottom: 3px solid #bdbdbd;">Lecture
+          </div>
+          <div class="col-md-12 col-md-12 col-xs-12 col-sm-12 q-mb-xl">
+            <div class="q-pa-md">
+              <div class="q-col-gutter-md row">          
+                  <a style="font-size: 25px;" class="q-py-sm q-pl-sm" href="https://o365kopo-my.sharepoint.com/personal/wyhwang_office_kopo_ac_kr/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fwyhwang%5Foffice%5Fkopo%5Fac%5Fkr%2FDocuments%2F%EA%B0%95%EC%9D%98%EC%9E%90%EB%A3%8C%2F1%2E%20kafka"> LG CNS - KAFKA Lecture </a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <!-- <canvas id="canvas2" style="height: 100%;width:100%;"></canvas> -->
+    </section>
+    
     <div id="contact_us">
       <div style="background-color: rgba(0, 0, 0, 0.68) !important;">
         <form
