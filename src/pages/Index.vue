@@ -348,7 +348,7 @@
           <div class="col-md-12 col-md-12 col-xs-12 col-sm-12 q-mb-xl">
             <div class="q-pa-md">
               <div class="q-col-gutter-md row">          
-                  <a style="font-size: 25px;" class="q-py-sm q-pl-sm" target="_blank" href="https://o365kopo-my.sharepoint.com/personal/wyhwang_office_kopo_ac_kr/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fwyhwang%5Foffice%5Fkopo%5Fac%5Fkr%2FDocuments%2F%EA%B0%95%EC%9D%98%EC%9E%90%EB%A3%8C%2F1%2E%20kafka"> LG CNS - KAFKA Lecture </a>
+                  <a style="font-size: 25px;" class="q-py-sm q-pl-sm" target="_blank" href="https://o365kopo-my.sharepoint.com/personal/wyhwang_office_kopo_ac_kr/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fwyhwang%5Foffice%5Fkopo%5Fac%5Fkr%2FDocuments%2F%EA%B0%95%EC%9D%98%EC%9E%90%EB%A3%8C%2F1%2E%20kafka"> LG CNS #1- KAFKA Lecture </a>
               </div>
             </div>
           </div>
