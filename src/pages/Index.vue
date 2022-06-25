@@ -339,6 +339,7 @@
       </div>
       <!-- <canvas id="canvas2" style="height: 100%;width:100%;"></canvas> -->
     </section>
+    <!--
     <section id="id_lecture">
       <div style="background-color:#206b73;z-index:0;" class="content">
         <div class="row row q-px-xl">
@@ -354,8 +355,8 @@
           </div>
         </div>
       </div>
-      <!-- <canvas id="canvas2" style="height: 100%;width:100%;"></canvas> -->
     </section>
+    -->
     
     <div id="contact_us">
       <div style="background-color: rgba(0, 0, 0, 0.68) !important;">
