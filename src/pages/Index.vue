@@ -275,7 +275,7 @@
                   <br>
                   - learn the characteristics of blockchain architecture through bitcoin<br>
                   - ethereum and its application development<br>
-                  ISBN : 978-89-6440-531-4 (13500)<br>
+                  ISBN : 978-89-6440-531-4 (13500)<br><br>
                 </div>
 
                 <div class="text-h5 q-mt-sm q-mb-xs">
