@@ -279,12 +279,26 @@
                 </div>
 
                 <div class="text-h5 q-mt-sm q-mb-xs">
-                  <div style="text-decoration: none;color: #eb4f71;">Development of Industrial Electronic Hardware</div>
+                  <div style="text-decoration: none;color: #eb4f71;"> A Study on the Restoration of Korean Traditional Palace Image by Adjusting the Receptive Field of Pix2Pix.</div>
                 </div>
                 <div class="text-caption text-grey-9">
-                  Dec 31, 2018 Korea Research Institute for Vocational Education & Training (KRIVET)<br>
-                  ISBN : 979-11-339-6977-7 (95560), 979-11-339-6976-0 (95560), 979-11-339-6979-1 (95560), 979-11-339-6975-3 (95560),<br>
-                   979-11-339-6978-4 (95560) <br><br>
+                  Journal of Korea Institute of Information, Electronics, and Communication Technology, 15(5), 360-366.<br>
+                  <br>
+                 This paper presents a AI model structure for restoring Korean traditional palace photographs,<br>
+                 which remain only black-and-white photographs, to color photographs using Pix2Pix, <br>
+                 one of the adversarial generative neural network techniques. <br>
+                 Pix2Pix consists of a combination of a synthetic image generator model and a discriminator model<br>
+                 that determines whether a synthetic image is real or fake. This paper deals with an artificial intelligence model <br>
+                 by adjusting a receptive field of the discriminator, and analyzes the results by considering the characteristics<br>
+                 of the ancient palace photograph. The receptive field of Pix2Pix, which is used to restore black-and-white <br>
+                 photographs, was commonly used in a fixed size, but a fixed size of receptive field is not suitable for a <br>
+                 photograph which consisting with various change in an image. This paper observed the result of changing <br>
+                 the size of the existing fixed a receptive field to identify the proper size of the discriminator that could <br>
+                 reflect the characteristics of ancient palaces. In this experiment, the receptive field of the discriminator<br>
+                 was adjusted based on the prepared ancient palace photos. This paper measure a loss of the model according to<br>
+                 the change in a receptive field of the discriminator and check the results of restored photos using a well trained<br>
+                 AI model from experiments.
+                   <br><br>
                 </div>
 
                 <div class="text-h5 q-mt-sm q-mb-xs">
@@ -339,7 +353,7 @@
       </div>
       <!-- <canvas id="canvas2" style="height: 100%;width:100%;"></canvas> -->
     </section>
-    <!--
+    
     <section id="id_lecture">
       <div style="background-color:#206b73;z-index:0;" class="content">
         <div class="row row q-px-xl">
@@ -349,14 +363,14 @@
           <div class="col-md-12 col-md-12 col-xs-12 col-sm-12 q-mb-xl">
             <div class="q-pa-md">
               <div class="q-col-gutter-md row">          
-                  <a style="font-size: 25px;" class="q-py-sm q-pl-sm" target="_blank" href="https://o365kopo-my.sharepoint.com/personal/wyhwang_office_kopo_ac_kr/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fwyhwang%5Foffice%5Fkopo%5Fac%5Fkr%2FDocuments%2F%EA%B0%95%EC%9D%98%EC%9E%90%EB%A3%8C%2F1%2E%20kafka"> LG CNS #1- KAFKA Lecture </a>
+                  <a style="font-size: 25px;" class="q-py-sm q-pl-sm" target="_blank" href="https://vo.la/VEHV6j"> Special Lecture </a>
               </div>
             </div>
           </div>
         </div>
       </div>
     </section>
-    -->
+    
     
     <div id="contact_us">
       <div style="background-color: rgba(0, 0, 0, 0.68) !important;">
