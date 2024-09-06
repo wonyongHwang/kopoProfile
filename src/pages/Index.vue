@@ -37,7 +37,7 @@
                style="border-top:3px solid #1595de;border-bottom: 3px solid #2faa64;">I'M a FULL-STACK DEVELOPER.
           </div>
           <div class="text-h6" style="color: #f4b825;">
-            S/W DEVELOPER | FULL STACK ENGINEER | PROFESSOR
+            S/W DEVELOPER | FULL STACK ENGINEER | PROFESSOR | NERD
           </div>
           <div style="color: #1495de !important;" class="text-h4 q-mt-md text-grey-2 my-font">
             Wayne Hwang
